@@ -26,3 +26,9 @@
 * Interface de linha de comando: Crie uma CLI para facilitar o uso.
 * Integração com Git: Considere integrar com Git para versionar os metadados.
 * Diferenças entre versões: Implemente uma função para comparar diferentes versões dos dados.
+
+## Melhorias:
+
+* Armazenamento remoto: Adicionar suporte para armazenamento remoto (ex: AWS S3, Google Cloud Storage).
+* Rastreabilidade de experimentos: Integrar com ferramentas de rastreamento de experimentos (MLflow, Weights & Biases) para associar versões de dados a experimentos específicos.
+* Diferenças entre versões: Implementar uma função para comparar as diferenças entre duas versões dos dados.
